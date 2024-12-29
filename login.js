@@ -1,3 +1,7 @@
 function login(){
-	return true or false;
+	return ture;
+}
+
+function newFunc(){
+  
 }
