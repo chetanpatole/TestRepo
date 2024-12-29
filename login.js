@@ -1,5 +1,5 @@
 function login(){
-	return false;
+	return ture;
 }
 
 function newFunc(){
