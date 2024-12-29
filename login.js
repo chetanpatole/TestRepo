@@ -1,3 +1,3 @@
 function login(){
-	return false;
+	return true or false;
 }
