@@ -1,6 +1,7 @@
 function login(){
-	return true;
+	return false;
 }
 
 function newFunc(){
+  
 }
